@@ -19,15 +19,15 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/bima-dharmawan" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/fadhailbima" title="LinkedIn Profile">
     <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
   &nbsp;
-  <a href="mailto:bimadarmawan25@gmail.com" title="Email">
+  <a href="mailto:bimadarmawan6@gmail.com" title="Email">
     <img width="22" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
   </a>
   &nbsp;
-  <a href="https://github.com/bimadarmawan" title="GitHub">
+  <a href="https://github.com/fadhailabima" title="GitHub">
     <img width="22" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
   </a>
 </p>
@@ -55,9 +55,9 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=bimadarmawan&show_icons=true&theme=react&hide_border=true&border_color=61dafb" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=fadhailabima&show_icons=true&theme=react&hide_border=true&border_color=61dafb" alt="GitHub Stats" />
   <br><br>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimadarmawan&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Langs" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhailabima&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
