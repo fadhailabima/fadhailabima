@@ -76,7 +76,3 @@
   🤝 Open to collaborations in tech projects and research <br>
   📚 Interested in <b>Intelligent Systems, Cloud, and Digital Solutions</b> <br>
 </p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Quote" />
-</p>
